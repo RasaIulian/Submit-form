@@ -40,3 +40,11 @@ a {
 #error {
   display: none;
 }
+
+p {
+  margin-bottom: 0;
+}
+
+select {
+  padding: 3px;
+}
